@@ -3,3 +3,4 @@ A customised meme generator app built in ReactJS. It is a web app fetching data 
 
 # Screenshot of the App
 ![Meme Generator](https://ibb.co/yk0Yg13.jpg)
+<img src="https://i.ibb.co/5jTnsy7/localhost-3000.png" alt="localhost-3000" border="0">
